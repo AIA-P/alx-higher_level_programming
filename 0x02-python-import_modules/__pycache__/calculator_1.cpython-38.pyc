@@ -1,1 +1,42 @@
 U
+    Bšˆcû  ã                   @   s$   d d„ Z dd„ Zdd„ Zdd „ ZdS )	c                 C   s   | | S )z
+    My addition function
+    
+    Args:
+        a: first integer
+        b: second integer
+
+    Returns:
+        The return value a + b
+    © ©ÚaÚbr   r   úT/home/mannie/alx-higher_level_programming/0x02-python-import_modules/calculator_1.pyÚadd   s    
+r   c                 C   s   | | S )z
+    My subtraction function
+    
+    Args:
+        a: first integer
+        b: second integer
+
+    Returns:
+        The return value a + b
+    r   r   r   r   r   Úsub   s    
+r    c                 C   s   | | S )z“
+    My multiplication function
+    
+    Args:
+        a: first integer
+        b: second integer
+
+    Returns:
+        The return value a + b
+    r   r   r   r   r   Úmul   s    
+r   c                 C   s   | | S )z‰
+    My division function
+
+    Args:
+        a: first integer
+        b: second integer
+
+    Returns:
+        The return value a + b
+    r   r   r   r   r   Údiv)   s    
+r	   N)r   r    r   r	   r   r   r   r   Ú<module>   s
